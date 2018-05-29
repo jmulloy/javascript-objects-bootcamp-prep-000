@@ -1,7 +1,6 @@
 var playlist = {artist : 'Widespread Panic', song : 'Driving Song'};
 function updatePlaylist(playlist, artist, song) {
   playlist['Grateful Dead'] = 'Althea'
-  
   return playlist
 }
 
